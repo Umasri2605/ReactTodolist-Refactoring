@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Todo(props) {
   return (
     <div className="border border-1 border-success m-3 p-3">
